@@ -26,4 +26,4 @@ Alguns conceitos aprendidos durante a aula:
 
 ## 📌 Link
 
-[Flutuar](https://rocketseat-projeto-extra1-flutuar.vercel.app/)
+[Flutuar](https://eltonmpereira.github.io/stage2_recriando_layout_RocketSeat/)
